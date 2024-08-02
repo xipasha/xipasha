@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, HTML, CSS, Java for now 😶
 - 🌱 I’m current Software Engineering student at ZUT
 <!--- 💞️ I’m looking to collaborate on -->
-- 📫 How to reach me ... here's my email chipashachiyemfay100@gamil.com
+- 📫 How to reach me ... here's my email chipashachiyemfya100@gmail.com
 - 😄 Pronouns: ... him 
   <!-- ⚡ Fun fact: ...-->
 
