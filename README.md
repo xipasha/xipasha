@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xipasha
 - 👀 I’m interested in developing as well as improving upon already existing software 😶
-- 🌱 I’m a current Software Engineering student at ZUT
+- 🌱 current Software Engineering student at ZUT
 <!--- 💞️ I’m looking to collaborate on -->
 - 📫 How to reach me ... here's my email chipashachiyemfya100@gmail.com
 - 😄 Pronouns: ... him 
