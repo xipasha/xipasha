@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm chipasha chiyemfya</h1>
+<h1 align="center">Hi 👋, I'm Chipasha</h1>
 <h3 align="center">A developer from kitwe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xipasha&label=Profile%20views&color=0e75b6&style=flat" alt="xipasha" /> </p>
