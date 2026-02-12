@@ -1,8 +1,6 @@
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)]
 # Hello 👋, I'm Chipasha chiyemfya
-### software engineering student
 
-An aspiring data analyst
+| An aspiring Data Analyst  | PHP Developer | Software Engineering Student |
 
 ## Contact Me
 <p><a href="https://instagram.com/xipasha"" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
@@ -16,6 +14,7 @@ An aspiring data analyst
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c++" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
 </p>
 
 ## GitHub Stats
