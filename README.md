@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 # Hello 👋, I'm Chipasha chiyemfya
 ### software engineering student
 
