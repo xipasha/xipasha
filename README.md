@@ -10,14 +10,3 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
 </p>
-
-## GitHub Stats
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xipasha&theme=merko" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/xipasha/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=xipasha" alt="trophy" />
