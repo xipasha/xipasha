@@ -1,4 +1,4 @@
-# Hello 👋, I'm Chipasha chiyemfya
+# Chipasha chiyemfya
 
 | An aspiring Data Analyst  | Software Engineering Student |
 
