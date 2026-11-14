@@ -1,9 +1,6 @@
 # 💫 About Me:
 Final year Software Engineering Student
 
-[![Now playing on Spotify](/badge/06b0c8da56971b7adf56240cf7281f29eac450f0.svg)](/badge/06b0c8da56971b7adf56240cf7281f29eac450f0/open)
-<sub>via [spotifystats.com](https://spotifystats.com/?ref=badge)</sub>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xipasha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chipasha chiyemfya) 
 
