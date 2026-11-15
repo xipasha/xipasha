@@ -1,4 +1,3 @@
-# About Me:
 Final year Software Engineering Student
 
 ## Socials:
